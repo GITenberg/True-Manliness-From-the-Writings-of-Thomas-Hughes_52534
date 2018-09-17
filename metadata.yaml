@@ -1,5 +1,5 @@
 _repo: True-Manliness-From-the-Writings-of-Thomas-Hughes_52534
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Lowell, James Russell
@@ -17,6 +17,9 @@ contributor:
     birthdate: 1847
     gutenberg_agent_id: '36881'
     url: http://www.gutenberg.org/2009/agents/36881
+covers:
+- cover_type: archival
+  image_path: 52534-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Thomas
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/645
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52534#True-Manliness-From-the-Writings-of-Thomas-Hughes
 gutenberg_issued: '2016-07-09'
 gutenberg_type: Text
 identifiers:
