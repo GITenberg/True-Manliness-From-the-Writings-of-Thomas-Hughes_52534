@@ -1,0 +1,45 @@
+_repo: True-Manliness-From-the-Writings-of-Thomas-Hughes_52534
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+  compiler:
+    agent_name: Brown, E. E. (Emma Elizabeth)
+    alias: Brown, Emma Elizabeth
+    birthdate: 1847
+    gutenberg_agent_id: '36881'
+    url: http://www.gutenberg.org/2009/agents/36881
+creator:
+  author:
+    agent_name: Hughes, Thomas
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '645'
+    url: http://www.gutenberg.org/2009/agents/645
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
+description: ''
+gutenberg_issued: '2016-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52534'
+  lccn: '12034455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+- GITenberg
+title: 'True Manliness
+
+  From the Writings of Thomas Hughes'
+url: http://www.gutenberg.org/ebooks/52534
